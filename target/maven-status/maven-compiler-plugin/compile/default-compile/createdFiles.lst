@@ -1,0 +1,5 @@
+com\urunov\activemq\jms\ReceiverConfig.class
+com\urunov\activemq\jms\SenderConfigure.class
+com\urunov\activemq\jms\Receiver.class
+com\urunov\activemq\ActivemqApplication.class
+com\urunov\activemq\jms\Sender.class
